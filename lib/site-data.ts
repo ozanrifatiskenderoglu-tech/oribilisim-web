@@ -1,10 +1,10 @@
 export const siteConfig = {
   name: 'Ori Bilişim',
   domain: 'oribilisim.com.tr',
-  phone: '+90 (466) 351 00 00',
+  phone: '+90 (539) 210 04 95',
   phoneHref: 'tel:+904663510000',
-  whatsappHref: 'https://wa.me/904663510000',
-  email: 'destek@oribilisim.com.tr',
+  whatsappHref: 'https://wa.me/905392100495',
+  email: 'info@oribilisim.com.tr',
   address: 'Merkez Mah., Hopa / Artvin',
   mapQuery: 'Hopa, Artvin',
   hours: [
