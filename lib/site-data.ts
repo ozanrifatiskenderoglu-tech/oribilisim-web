@@ -5,7 +5,7 @@ export const siteConfig = {
   phoneHref: 'tel:+904663510000',
   whatsappHref: 'https://wa.me/905392100495',
   email: 'info@oribilisim.com.tr',
-  address: 'Merkez Mah., Hopa / Artvin',
+  address: 'Merkez Kuledibi Mahallesi Sahil Caddesi No : 120/A Hopa / Artvin, Artvin 08600',
   mapQuery: 'Hopa, Artvin',
   hours: [
     { day: 'Pazartesi – Cuma', time: '08:30 – 19:00' },
