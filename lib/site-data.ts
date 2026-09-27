@@ -14,7 +14,7 @@ export const siteConfig = {
   ],
   regions: ['Artvin', 'Hopa', 'Kemalpaşa', 'Arhavi', 'Borçka'],
   social: [
-    { label: 'Instagram', href: 'https://instagram.com/oribilisim' },
+    { label: 'Instagram', href: 'https://instagram.com/ori.bilisim' },
     { label: 'Facebook', href: 'https://facebook.com/oribilisim' },
     { label: 'LinkedIn', href: 'https://linkedin.com/company/oribilisim' },
     { label: 'YouTube', href: 'https://youtube.com/@oribilisim' },
